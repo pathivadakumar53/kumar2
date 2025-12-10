@@ -1,0 +1,45 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+body{
+    font-style: oblique;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: medium;
+    color: rgb(11, 10, 10);
+    background-color: darkgrey;
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+}
+.title{
+     text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+#p{
+    color: rgb(9, 8, 8);
+    text-align: center;
+    font-size: 25px;
+}
+table{
+    table-layout: inherit;
+    -o-table-baseline: inherit;
+    background-color: antiquewhite;
+    padding: 100px;
+    margin: 10px ;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+ .circle-img {
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
